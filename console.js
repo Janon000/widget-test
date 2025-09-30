@@ -8,7 +8,5 @@ const myWidget = {
         // All of your widget's logic now goes here.
         // You have access to the settings via the 'fieldData' parameter.
         
-        applyAppearanceStyles(fieldData);
-        // ... and any other functions you have.
     }
 };
